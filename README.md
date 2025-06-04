@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sonam</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Sonam" alt="Typing SVG" />
+</p>
+
 <h3 align="center">A passionate AI/ML developer & python developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sona772004&label=Profile%20views&color=0e75b6&style=flat" alt="sona772004" /> </p>
